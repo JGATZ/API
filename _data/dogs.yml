@@ -1,0 +1,17 @@
+Gilligan:
+  age: 10
+  paws: 4
+  color: brown
+  tail: no
+
+Roger:
+  age: 3
+  paws: 3
+  eyes: brown
+  tail: yes
+  
+Jerry:
+  age: 4
+  eyes: blue
+  tail: yes
+  
